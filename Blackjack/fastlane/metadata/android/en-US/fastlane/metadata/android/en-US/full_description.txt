@@ -1,0 +1,10 @@
+420 Blackjack brings the classic casino card game to your Android device.
+
+Play Blackjack with a simple, accessible interface built with Kotlin and Jetpack Compose.
+
+Features:
+- Classic Blackjack gameplay
+- A clean Android interface
+- Native Android app experience
+
+Install the game, try your luck, and enjoy a round of Blackjack whenever you like.
