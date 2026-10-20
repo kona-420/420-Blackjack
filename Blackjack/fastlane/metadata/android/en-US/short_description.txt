@@ -1,0 +1,1 @@
+A classic Blackjack card game for Android
